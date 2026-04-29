@@ -1,0 +1,21 @@
+id,name,company,email,phone,source,country,industry,product_interest,budget_usd,company_size,notes,created_at
+1,Ahmed Al Mansouri,Gulf Retail Group,ahmed@gulfretail.ae,+971501234567,Website,UAE,Retail,CRM,15000,201-500,Urgently needs CRM before Q3,2024-01-15
+2,Sara Johnson,Dubai Logistics Ltd,sara@dubailog.ae,+971502345678,LinkedIn,UAE,Logistics,HRM,8000,51-200,Evaluating 3 vendors,2024-01-16
+3,Khalid Ibrahim,Abu Dhabi Construction,khalid@adconstruct.ae,+971503456789,Referral,UAE,Construction,CRM,25000,501-1000,Ready to sign if demo goes well,2024-01-17
+4,Priya Sharma,TechStart Dubai,priya@techstart.ae,+971504567890,Website,UAE,Technology,HRM,3000,1-50,Just exploring options,2024-01-18
+5,Omar Hassan,Emirates Finance,omar@emiratesfinance.ae,+971505678901,Cold Call,UAE,Finance,CRM,50000,1001+,Decision maker confirmed,2024-01-19
+6,Lisa Chen,Hospitality Pro LLC,lisa@hospro.ae,+971506789012,LinkedIn,UAE,Hospitality,HRM,6000,51-200,Needs multilingual support,2024-01-20
+7,Mohammed Al Rashid,Rashid Trading Co,m.rashid@rashidtrading.ae,+971507890123,Referral,UAE,Trading,CRM,12000,201-500,Spoke to CEO directly,2024-01-21
+8,Fatima Al Zaabi,Zaabi Healthcare,fatima@zaabihealthcare.ae,+971508901234,Website,UAE,Healthcare,HRM,9000,201-500,GDPR and data compliance concern,2024-01-22
+9,James Miller,Miller Consulting,james@millerconsult.ae,+971509012345,Cold Call,UAE,Consulting,CRM,2000,1-50,Low budget may be a blocker,2024-01-23
+10,Aisha Noor,Noor Education Group,aisha@nooredu.ae,+971500123456,Website,UAE,Education,HRM,4500,51-200,Interested but timeline unclear,2024-01-24
+11,Tariq Al Dhaheri,Al Dhaheri Investments,tariq@aldhaheri.ae,+971501234568,LinkedIn,UAE,Finance,CRM,35000,201-500,Wants implementation in 30 days,2024-01-25
+12,Elena Popescu,Popescu Architecture,elena@poparchuae.ae,+971502345679,Website,UAE,Architecture,HRM,2500,1-50,Just requested brochure,2024-01-26
+13,Bilal Chaudhry,Chaudhry Manufacturing,bilal@chaudhrymanuf.ae,+971503456780,Referral,UAE,Manufacturing,CRM,18000,201-500,Strong referral from existing client,2024-01-27
+14,Noura Al Kaabi,Al Kaabi Real Estate,noura@alkaabire.ae,+971504567891,LinkedIn,UAE,Real Estate,CRM,22000,201-500,Comparing us vs Salesforce,2024-01-28
+15,David Park,Park Technologies,david@parktech.ae,+971505678902,Website,UAE,Technology,HRM,7000,51-200,Good fit technically,2024-01-29
+16,Hessa Al Nuaimi,Al Nuaimi Group,hessa@alnuaimi.ae,+971506789013,Cold Call,UAE,Conglomerate,CRM,60000,1001+,Large enterprise deal possible,2024-01-30
+17,Ravi Kumar,Kumar Pharma UAE,ravi@kumarpharma.ae,+971507890124,Website,UAE,Pharma,HRM,5000,51-200,Needs Arabic language support,2024-01-31
+18,Maryam Saeed,Saeed Media,maryam@saeedmedia.ae,+971508901235,LinkedIn,UAE,Media,CRM,3500,1-50,Small team not sure if CRM needed,2024-02-01
+19,Faisal Al Muhairi,Al Muhairi Group,faisal@almuhairi.ae,+971509012346,Referral,UAE,Diversified,HRM,28000,501-1000,Wants to automate HR for 3 subsidiaries,2024-02-02
+20,Caroline Hughes,Hughes Exports,caroline@hughesexp.ae,+971500123457,Cold Call,UAE,Export/Import,CRM,1500,1-50,Very early stage inquiry,2024-02-03
